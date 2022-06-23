@@ -1,5 +1,5 @@
 ---
-title: 'DWX Germany 2021'
+title: 'FaaS Hackathon Berlin'
 theme: ./theme
 defaults:
   layout: 'default'
@@ -9,57 +9,22 @@ fonts:
   serif: 'Caveat'
   mono: 'Fira Code'
 info: |
-  ## IONOS slide deck developer week Germany 2021
-
-  More [DWX](https://www.developer-week.de/)
+  ## IONOS slide deck FaaS Hackathon 2022
 highlighter: shiki
-colorSchema: 'light'
+colorSchema: 'dark'
 src: ./content/cover.md
 ---
 ---
-src: ./content/bio.md
+src: ./content/agenda.md
 ---
 ---
-src: ./content/intro.md
+src: ./content/idea.md
 ---
 ---
-src: ./content/history.md
+src: ./content/code.md
 ---
 ---
-src: ./content/lampstack.md
----
----
-src: ./content/jamstack-overview.md
----
----
-src: ./content/jamstack-performance.md
----
----
-src: ./content/jamstack-security.md
----
----
-src: ./content/jamstack-scale.md
----
----
-src: ./content/jamstack-availability.md
----
----
-src: ./content/jamstack-maintainability.md
----
----
-src: ./content/jamstack-portability.md
----
----
-src: ./content/jamstack-seo.md
----
----
-src: ./content/jamstack-developer-experience.md
----
----
-src: ./content/jamstack-editor-experience.md
----
----
-src: ./content/conclusion.md
+src: ./content/demo.md
 ---
 ---
 src: ./content/deployNow.md
